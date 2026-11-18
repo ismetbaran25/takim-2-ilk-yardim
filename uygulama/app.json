@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "uygulama",
+    "name": "Kampüs Sağlık Asistanı",
     "slug": "takim-2-ilk-yardim",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "uygulama",
+    "scheme": "kampussaglik",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"

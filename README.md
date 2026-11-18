@@ -1,4 +1,4 @@
-# takim-2-ilk-yardim
+# Kampüs Sağlık Asistanı
 
 Kampüs Sağlık ve İlk Yardım Bilgi Asistanı. Tanı koymaz, ilaç önermez.
 

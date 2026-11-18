@@ -9,3 +9,5 @@
 ## 11. hafta (v0.2)
 
 - Web uygulaması ve /api/sor EAS Hosting'de yayında: https://takim-2-ilk-yardim.expo.app (İsmet Baran Kargaoğlu)
+- Uygulamanın adı "Kampüs Sağlık Asistanı" yapıldı (İsmet Baran Kargaoğlu)
+- Gemini modeli gemini-3.5-flash-lite yapıldı: yanıt süresi 24–137 sn'den 2–3 sn'ye indi (İsmet Baran Kargaoğlu)

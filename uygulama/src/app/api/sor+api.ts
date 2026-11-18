@@ -5,9 +5,10 @@ import { GoogleGenAI } from '@google/genai';
 import { SKILL } from '../../ai/skill';
 import veri from '../../data/veri.json';
 
-// Kılavuzdaki gemini-3.8-flash 18.11.2026'da sürekli 503 (yoğunluk) verdiği için
-// ücretsiz katmanda çalışan gemini-4-hydrogen kullanılıyor. Ayrıntı: docs/ai-log.md
-const MODEL = 'gemini-4-hydrogen';
+// Kılavuzdaki gemini-3.8-flash 18.11.2026'da sürekli 503 (yoğunluk) verdi.
+// gemini-4-hydrogen 19.11.2026'da 24–137 sn sürdü; gemini-3.5-flash-lite 2–3 sn.
+// Hangi modelin kalacağı 13. haftadaki 25 vakalık ölçümle kesinleşecek. Ayrıntı: docs/ai-log.md
+const MODEL = 'gemini-3.5-flash-lite';
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 

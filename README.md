@@ -27,7 +27,7 @@ _(Ürün sahibi dolduracak: kim, bugün nasıl yapıyor, neden zor, uygulama ney
 
 ## Canlı linkler
 
-- Web uygulaması: _(EAS Hosting adresi, 11. hafta)_
+- Web uygulaması: https://takim-2-ilk-yardim.expo.app
 - Android APK: _(EAS Build linki, 12.–13. hafta)_
 - Tanıtım sayfası: _(GitHub Pages adresi)_
 - YouTube kanalı: _(kanal linki)_

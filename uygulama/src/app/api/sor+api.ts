@@ -5,6 +5,10 @@ import { GoogleGenAI } from '@google/genai';
 import { SKILL } from '../../ai/skill';
 import veri from '../../data/veri.json';
 
+// Kılavuzdaki gemini-3.8-flash 18.11.2026'da sürekli 503 (yoğunluk) verdiği için
+// ücretsiz katmanda çalışan gemini-4-hydrogen kullanılıyor. Ayrıntı: docs/ai-log.md
+const MODEL = 'gemini-4-hydrogen';
+
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 export async function POST(request: Request) {
@@ -21,7 +25,7 @@ export async function POST(request: Request) {
 
   try {
     const interaction = await ai.interactions.create({
-      model: 'gemini-3.8-flash',
+      model: MODEL,
       input: `${SKILL}\n\nUygulamanın verisi:\n${JSON.stringify(veri)}\n\nKullanıcı sorusu: ${soru}`,
     });
     return Response.json({ cevap: interaction.output_text });

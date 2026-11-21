@@ -21,9 +21,7 @@ _(Ürün sahibi dolduracak: kim, bugün nasıl yapıyor, neden zor, uygulama ney
 
 ### Kullanıcı görevleri
 
-1. Burkulma kartını bulun.
-2. Sağlık biriminin çalışma saatini öğrenin.
-3. Sor ekranında bir soru sorun.
+_(Ürün sahibi dolduracak: kullanıcının uygulamada yapacağı üç görev.)_
 
 ## Canlı linkler
 

@@ -74,3 +74,7 @@ Uygulama AI'a doğrudan bağlanmaz: istek `/api/sor` route'una gider, route tali
 ## Sınırlılıklar
 
 ## Katkı beyanı
+
+## Benimseme planı
+
+Kampüs Sağlık Asistanı, öğrencilerin yurt, derslik, laboratuvar ve ortak kampüs alanlarında karşılaşabilecekleri ani sağlık durumlarında panik yapmadan, güvenilir ilk yardım adımlarına hızlıca ulaşmasını sağlar. Öğrenciler uygulamayı; YouTube Shorts serileri, kısa sosyal medya içerikleri ve kampüs panolarına asılacak QR kodlu afişler aracılığıyla keşfeder. Oryantasyon günlerinde ve öğrenci kulüpleriyle yapılan etkinliklerde uygulamalı mini senaryolarla tanıtılması, öğrencilerin asistanı günlük hayatta aktif kullanmasını kolaylaştırır. Düzenli paylaşılan pratik örnekler sayesinde kampüs genelinde doğru ilk yardım alışkanlığının kalıcı hale gelmesi hedeflenir.

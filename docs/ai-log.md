@@ -1,4 +1,4 @@
-| 2026-11-21 | Beren Doğan | Claude pro | Short 1 ("İlk yardımda en sık yapılan 3 hata") için 58 saniyelik dikey (9:16) senaryo metni, sahne akışı ve video üretimi/revizyonu |  Kullanıldı | Feyza Belinay Bögrek kontrolüyle burun kanaması, yanık ve bayılma ilk yardım bilgileri düzeltildi; süre ve sahne geçişleri netleştirildi |
+| Tarih | Kim | Araç ve model | Ne istendi | Sonuç | Ne değiştirildi |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-18 | Serhat Mazak | Gemini | 10. hafta AI akışı dokümantasyonu ve iş akışı analizi | Kullanıldı | Kılavuz şablonuna göre düzenlendi |
 | 2026-11-18 | Serhat Mazak | claude.ai Free, Sonnet 5.5 | SKILL.md kural testi (ilaç isteği, bilinç kaybı, kural deldirme, kapsam dışı soru) | Başarılı | Tüm kenar durumlarda kurallara uydu |
@@ -7,3 +7,4 @@
 | 2026-11-18 | İsmet Baran Kargaoğlu | Gemini API (gemini-3.8-flash, gemini-4-hydrogen) | /api/sor bağlantı testi | gemini-3.8-flash ve gemini-3.7-flash 503 "high demand" verdi; gemini-4-hydrogen 7–8 sn'de yanıt verdi | Route'taki model gemini-4-hydrogen yapıldı |
 | 2026-11-19 | İsmet Baran Kargaoğlu | Gemini API (gemini-4-hydrogen, gemini-3.5-flash-lite, gemini-3.5/3.6-flash) | Canlı /api/sor yanıtları 67–80 sn sürünce hız karşılaştırması; thinking_level "low" denemesi | hydrogen 24–137 sn (low daha hızlı değil); 3.5/3.6-flash 503; 3.5-flash-lite 6 denemede 2–3 sn, ilaç önermedi ve kural deldirme sorusunda kuralı korudu | Model gemini-3.5-flash-lite yapıldı; 13. haftadaki ölçümde hydrogen ile karşılaştırılacak |
 | 2026-11-21 | Bürge Dağ | ChatGPT | Tanıtım sayfasına GitHub butonu, takım listesi, 112 uyarısı ve ders projesi notu | Kullanıldı | Linkler ve metinler kontrol edilip düzeltildi |
+| 2026-11-21 | Beren Doğan | Gemini | Short 1 ("İlk yardımda en sık yapılan 3 hata") için 58 saniyelik dikey (9:16) senaryo metni, sahne akışı ve video üretimi/revizyonu | Kullanıldı | Feyza Belinay Bögrek kontrolüyle burun kanaması, yanık ve bayılma ilk yardım bilgileri düzeltildi; süre ve sahne geçişleri netleştirildi |

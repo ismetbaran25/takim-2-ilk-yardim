@@ -30,7 +30,8 @@ _(Ürün sahibi dolduracak: kim, bugün nasıl yapıyor, neden zor, uygulama ney
 - Web uygulaması: https://takim-2-ilk-yardim.expo.app
 - Android APK: _(EAS Build linki, 12.–13. hafta)_
 - Tanıtım sayfası: https://burgedag21-hub.github.io/takim-2-site/
-- YouTube kanalı: _(kanal linki)_
+- YouTube kanalı: https://www.youtube.com/@Tak%C4%B1m2Kamp%C3%BCsSa%C4%9Fl%C4%B1kAsistan%C4%B1
+- Short 1: https://www.youtube.com/shorts/ojJh-AvQC1M
 - Ekran akışı taslağı: _(Artifact linki)_
 
 ## Kurulum

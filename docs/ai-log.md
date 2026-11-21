@@ -1,4 +1,4 @@
-| Tarih | Kim | Araç ve model | Ne istendi | Sonuç | Ne değiştirildi |
+| 2026-11-21 | Beren Doğan | Claude pro | Short 1 ("İlk yardımda en sık yapılan 3 hata") için 58 saniyelik dikey (9:16) senaryo metni, sahne akışı ve video üretimi/revizyonu |  Kullanıldı | Feyza Belinay Bögrek kontrolüyle burun kanaması, yanık ve bayılma ilk yardım bilgileri düzeltildi; süre ve sahne geçişleri netleştirildi |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-18 | Serhat Mazak | Gemini | 10. hafta AI akışı dokümantasyonu ve iş akışı analizi | Kullanıldı | Kılavuz şablonuna göre düzenlendi |
 | 2026-11-18 | Serhat Mazak | claude.ai Free, Sonnet 5.5 | SKILL.md kural testi (ilaç isteği, bilinç kaybı, kural deldirme, kapsam dışı soru) | Başarılı | Tüm kenar durumlarda kurallara uydu |

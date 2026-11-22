@@ -17,11 +17,20 @@ Kampüs Sağlık ve İlk Yardım Bilgi Asistanı. Tanı koymaz, ilaç önermez.
 
 ## Problem ve hedef kullanıcı
 
-_(Ürün sahibi dolduracak: kim, bugün nasıl yapıyor, neden zor, uygulama neyi kolaylaştıracak.)_
+Kampüste biri yaralanınca öğrenciler ne yapacağını bilmiyor; panik anında yanlış ama “bilinen” yöntemler uygulanıyor
+ya da kimse müdahale etmeye cesaret edemiyor. Bu uygulama, kampüste en sık karşılaşılan acil durumları kısa ve
+anlaşılır kartlara dönüştürerek bu boşluğu doldurmayı amaçlıyor.
+Her kart birkaç adımda ne yapılması ve ne yapılmaması gerektiğini anlatıyor, ne zaman 112’nin aranması gerektiğini de
+açıkça belirtiyor. Uygulama özellikle ilk yardım eğitimi almamış öğrenciler, kulüp üyeleri ve kampüs personeli için
+tasarlandı; telefondan saniyeler içinde açılıp telaş anında bile kolayca takip edilebiliyor. Amaç profesyonel yardımın
+yerini almak değil, sağlık ekibi gelene kadar geçen kritik dakikalarda doğru ve güvenli adımları attırmak.
 
 ### Kullanıcı görevleri
 
-_(Ürün sahibi dolduracak: kullanıcının uygulamada yapacağı üç görev.)_
+1. Burkulma kartını bulun.
+2. Sağlık biriminin çalışma saatini öğrenin.
+3. Sor ekranında bir soru sorun.
+
 
 ## Canlı linkler
 

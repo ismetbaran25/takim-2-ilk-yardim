@@ -1,5 +1,5 @@
 {
   "kartlar": [],
-  "birim": { "ad": "Kampüs Sağlık Birimi", "saatler": "", "konum": "", "iletisim": "" },
+ "birim": { "ad": "Kampüs Sağlık Birimi", "saatler": "Hafta içi 08.30–17.00", "konum": "Merkez Kampüs, zemin kat, Sağlık Destek Odası", "iletisim": "Telefon: 000 000 00 00 · E-posta: ornek@example.invalid (örnek bilgi)" },
   "duyurular": []
 }

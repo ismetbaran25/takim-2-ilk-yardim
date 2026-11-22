@@ -39,7 +39,7 @@ yerini almak değil, sağlık ekibi gelene kadar geçen kritik dakikalarda doğr
 - Tanıtım sayfası: https://burgedag21-hub.github.io/takim-2-site/
 - YouTube kanalı: https://www.youtube.com/@Tak%C4%B1m2Kamp%C3%BCsSa%C4%9Fl%C4%B1kAsistan%C4%B1
 - Short 1: https://www.youtube.com/shorts/ojJh-AvQC1M
-- Ekran akışı taslağı: _(Artifact linki)_
+- Ekran akışı taslağı:[docs/ekran-akisi.pdf](docs/ekran-akisi.pdf) (claude.ai'de Artifact olarak çizildi)
 
 ## Kurulum
 

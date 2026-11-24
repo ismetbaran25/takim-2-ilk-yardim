@@ -49,9 +49,10 @@ Gerekenler: Git, Node.js (LTS), VS Code.
 git clone https://github.com/ismetbaran25/takim-2-ilk-yardim.git
 cd takim-2-ilk-yardim/uygulama
 npm install
-cp .env.example .env   # GEMINI_API_KEY değerini teknik liderden alın; .env asla commit edilmez
 npx expo start         # tarayıcıda açmak için w
 ```
+
+Ekranlar ve kartlar anahtar olmadan çalışır. Sor ekranını kendi bilgisayarınızda denemek isterseniz kendi ücretsiz Gemini anahtarınızı alın (aistudio.google.com → Get API key), `cp .env.example .env` ile dosyayı oluşturup `GEMINI_API_KEY` değerine yazın. Anahtar kimseyle paylaşılmaz; `.env` asla commit edilmez. Canlı sitedeki anahtar yalnızca EAS gizli değişkeninde durur.
 
 ### Çalışma akışı
 
